@@ -1,2 +1,2 @@
 # Twitter-Sentiment-Analysis
-It's a data-transfer system. The data may be converted and processed in real time instead of batches. Data pipeline includes harvesting or capturing data using different technologies, storing raw data, cleaning, verifying, converting, and visualizing KPIs.
+It refers to a mechanism for transferring data across systems. The data may or may not undergo transformation, and it may be processed in real time (or streaming) as opposed to in batches. Right from harvesting or capturing data using different technologies, storing raw data, cleaning and verifying data, translating data into a queryable format, visualizing KPIs, and orchestrating the aforementioned process is a data pipeline.
