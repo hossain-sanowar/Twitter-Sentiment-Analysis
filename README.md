@@ -37,7 +37,7 @@ It refers to a mechanism for transferring data across systems. The data may or m
 - Jupyter Lab at: http://localhost:4888/lab?
 
 
-## twitter
+## twitter developer:
 APi Key: F6aman9OnTSL6VWTzMfivmlvj
 API Key Secret: qJMrnHR49qmx8ttlHiwCZlK5SR8Pi7WWbzLSnJ3gAFaNMrYPvu
 Bearer Token: AAAAAAAAAAAAAAAAAAAAANBdjQEAAAAAl9Oux1KdXXkNddomOeRqfv4ACrk%3DRvmPirZtfsqNriCUhsI6FCyUTvF1Ygs5iG2F2Yz3Ewi3uji2bG
