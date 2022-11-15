@@ -35,3 +35,11 @@ It refers to a mechanism for transferring data across systems. The data may or m
 - NiFi at: http://localhost:2080/nifi/
 - Mongo Express at: http://localhost:4141/
 - Jupyter Lab at: http://localhost:4888/lab?
+
+
+## twitter
+APi Key: F6aman9OnTSL6VWTzMfivmlvj
+API Key Secret: qJMrnHR49qmx8ttlHiwCZlK5SR8Pi7WWbzLSnJ3gAFaNMrYPvu
+Bearer Token: AAAAAAAAAAAAAAAAAAAAANBdjQEAAAAAl9Oux1KdXXkNddomOeRqfv4ACrk%3DRvmPirZtfsqNriCUhsI6FCyUTvF1Ygs5iG2F2Yz3Ewi3uji2bG
+Access Token: 1592436867580010499-Ngp1cQWTGX5i60rCUbL2uve5hAEYZA
+Access Token Secrect:bo7NirefRTH9tINbHvcXG864HryDOYhanJnAA1M0zpsNz
