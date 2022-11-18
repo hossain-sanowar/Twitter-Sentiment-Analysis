@@ -43,3 +43,7 @@ API Key Secret: qJMrnHR49qmx8ttlHiwCZlK5SR8Pi7WWbzLSnJ3gAFaNMrYPvu
 Bearer Token: AAAAAAAAAAAAAAAAAAAAANBdjQEAAAAAl9Oux1KdXXkNddomOeRqfv4ACrk%3DRvmPirZtfsqNriCUhsI6FCyUTvF1Ygs5iG2F2Yz3Ewi3uji2bG
 Access Token: 1592436867580010499-Ngp1cQWTGX5i60rCUbL2uve5hAEYZA
 Access Token Secrect:bo7NirefRTH9tINbHvcXG864HryDOYhanJnAA1M0zpsNz
+
+
+##text data:
+{"data":{"edit_history_tweet_ids":["1593530673826234369"],"id":"1593530673826234369","text":"@lgyu_a 初めまして、検索から失礼致します。\n川中子所持してるのですが、鈴木とトレ可能でしょうか？\nご検討のほどよろしくお願いいたします。"}}
